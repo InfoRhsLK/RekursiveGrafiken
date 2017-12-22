@@ -22,6 +22,8 @@ public class RekursiveGrafiken extends JFrame {
         
         setExtendedState(JFrame.MAXIMIZED_BOTH);
         
+        //HIeR WAR HENDRIKK ... WEar doch Rübu
+        
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
     }
